@@ -11,4 +11,21 @@
    
 
 #### CREATE VIRTUAL MACHINE (VM)
+1. VM Name: "insert a consistent name"
+2. ISO image: "select the RHEL iso image you downloaded"
+3. OS: Linux
+4. OS Distibution: Red Hat
+5. OS Version: Red Hat (64-bit)
+6. uncheck "Proceed with Unattended Installation"
+7.  specify virtual hardware: Base memory (RAM) = 2GB, CPUs = 2 or more
+8.  disk size: 20GB
+9.  Go settings, to storage and select Controller:SATA
+
+### RUNNING THE VIRTUAL MACHINE (VM)
+1. Select english as the language and press 'continue'
+2. Press the 'Connect to Red Hat' and enter your red hat account crendentials and register.
+3. For 'software selection' select 'workstation' and for add-ons select 'Container Management', 'Security Tools', 'Development Tools'.
+4. create a root password for the 'Root Account'
+5. Create a user account in the 'User Creation'
+
 
