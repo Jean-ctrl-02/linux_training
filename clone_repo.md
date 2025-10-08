@@ -5,6 +5,6 @@
 
 2. Type in your file pathway to save your repo in in your PC
 -*cd Documents/Projects/*
->
-4. Clone the repo by inserting the repo URL
+
+3. Clone the repo by inserting the repo URL
  -*git clone https://.......*
