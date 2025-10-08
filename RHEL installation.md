@@ -28,6 +28,7 @@
 4. create a root password for the **'Root Account'**
 5. Create a user account in the **'User Creation'**
 6. Begin installization
+7. When complete, press **'reboot system'**
 
 
 
