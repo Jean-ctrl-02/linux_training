@@ -15,6 +15,7 @@
 - **cd~** or **cd** : return you to your home directory
 
 - **mkdir <file_name>** : create a new file for your directory
+- 
 
 - 
 
