@@ -20,6 +20,7 @@
 7. **'Specify virtual hardware'**: Base memory (RAM) = 2GB, CPUs = 2 or more
 8. **Disk size**: 20GB
 9. Go settings, to storage and select **'Controller:SATA'**
+10. Go to settings, to network and select **'bridged adapter'**.
 
 ### RUNNING THE VIRTUAL MACHINE (VM)
 1. Select *english* as the language and press **'continue'**
