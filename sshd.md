@@ -2,7 +2,7 @@
 
 > *make sure your network settings (if using corporate network(internal))
  in virtualbox is connected as a **bridged adapter** and selecting the
- necessary driver used*
+ necessary network card used*
 
 > *make sure you are logged in to your linux environment as your user account
  (not root) as **sudo** is used when not in root account.*
