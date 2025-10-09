@@ -15,7 +15,10 @@
 - **cd~** or **cd** : return you to your home directory
 
 - **mkdir <file_name>** : create a new file for your directory
-- 
+  
+- **rm -r <file_name>** : remove files
+
+- **mv <source_file> <destination_file>** : move the source file to a destination directory
 
 - 
 
